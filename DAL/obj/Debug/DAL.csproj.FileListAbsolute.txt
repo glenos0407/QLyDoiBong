@@ -1,0 +1,17 @@
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\DAL.dll.config
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\DAL.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\DAL.pdb
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\EntityFramework.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\EntityFramework.xml
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.pdb
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.Migrations.initv1.resources
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\Enitites.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\Enitites.pdb
+D:\Projects\C#\Kien Truc PM\QLDoiBong\DAL\bin\Debug\Enitites.dll.config

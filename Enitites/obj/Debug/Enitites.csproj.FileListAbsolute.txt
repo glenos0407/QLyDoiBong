@@ -1,0 +1,12 @@
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\Enitites.dll.config
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\Enitites.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\Enitites.pdb
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\EntityFramework.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\EntityFramework.xml
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\obj\Debug\Enitites.csprojAssemblyReference.cache
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\obj\Debug\Enitites.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\obj\Debug\Enitites.csproj.CopyComplete
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\obj\Debug\Enitites.dll
+D:\Projects\C#\Kien Truc PM\QLDoiBong\Enitites\obj\Debug\Enitites.pdb
